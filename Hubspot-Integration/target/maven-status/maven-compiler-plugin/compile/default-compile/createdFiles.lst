@@ -1,0 +1,5 @@
+com\example\hubspot\model\Contact.class
+com\example\hubspot\controller\ContactController.class
+com\example\hubspot\config\RestTemplateConfig.class
+com\example\hubspot\HubspotIntegrationApplication.class
+com\example\hubspot\service\HubSpotService.class
